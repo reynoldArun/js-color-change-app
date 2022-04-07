@@ -33,3 +33,9 @@
     font-weight: 900;
     margin-top: 10px;
 }
+
+@media only screen and (max-width: 675px){
+    .header > input {
+        width: 200px;
+    }
+}
